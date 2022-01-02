@@ -1,0 +1,3 @@
+{"PriceID":1,"GroupCount":2,"Duration":1,"WeekendChildPrice":11,"WeekDaysChildPrice":11,"WeekendAdultPrice":11,"WeekDaysAdultPrice":10,"WeekendAgedPrice":10,"WeekDaysAgedPrice":10},
+{"PriceID":2,"GroupCount":2,"Duration":1,"WeekendChildPrice":123,"WeekDaysChildPrice":22,"WeekendAdultPrice":33,"WeekDaysAdultPrice":11,"WeekendAgedPrice":32,"WeekDaysAgedPrice":21},
+{"PriceID":3,"GroupCount":1,"Duration":2,"WeekendChildPrice":400,"WeekDaysChildPrice":300,"WeekendAdultPrice":700,"WeekDaysAdultPrice":600,"WeekendAgedPrice":300,"WeekDaysAgedPrice":250},

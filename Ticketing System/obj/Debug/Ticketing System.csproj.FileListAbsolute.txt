@@ -1,0 +1,208 @@
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\Ticketing System.exe.config
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\Ticketing System.exe
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\Ticketing System.pdb
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\obj\Debug\Ticketing System.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.AddPrice.resources
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Form1.resources
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Properties.Resources.resources
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.AddVisitors.resources
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Report.resources
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\obj\Debug\Ticketing System.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\obj\Debug\Ticketing System.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\obj\Debug\Ticketing System.exe
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\obj\Debug\Ticketing System.pdb
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\Microsoft.NET.StringTools.dll
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\System.Buffers.dll
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\System.Memory.dll
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\System.Security.Permissions.dll
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Framework.pdb
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Framework.xml
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Utilities.Core.xml
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\Microsoft.NET.StringTools.pdb
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\System.Buffers.xml
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\System.Memory.xml
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\System.Security.Permissions.xml
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\obj\Debug\Ticketing System.csproj.CopyComplete
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Exit_Visitor.resources
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Form2.resources
+C:\Users\Dell\source\repos\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Chart.resources
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\Ticketing System.exe.config
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\Ticketing System.exe
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\Ticketing System.pdb
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Framework.dll
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\Microsoft.NET.StringTools.dll
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\Newtonsoft.Json.dll
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\System.Buffers.dll
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\System.Collections.Immutable.dll
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\System.Memory.dll
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\System.Numerics.Vectors.dll
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\System.Security.AccessControl.dll
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\System.Security.Permissions.dll
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\System.Security.Principal.Windows.dll
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Framework.pdb
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Framework.xml
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Utilities.Core.xml
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\Microsoft.NET.StringTools.pdb
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\Newtonsoft.Json.xml
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\System.Buffers.xml
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\System.Collections.Immutable.xml
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\System.Memory.xml
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\System.Numerics.Vectors.xml
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\System.Security.AccessControl.xml
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\System.Security.Permissions.xml
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\bin\Debug\System.Security.Principal.Windows.xml
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing System.csproj.AssemblyReference.cache
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.AddPrice.resources
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Chart.resources
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Exit_Visitor.resources
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Form1.resources
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Form2.resources
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Properties.Resources.resources
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.AddVisitors.resources
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Report.resources
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing System.csproj.GenerateResource.cache
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing System.csproj.CoreCompileInputs.cache
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing System.csproj.CopyComplete
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing System.exe
+D:\year3 courseworks\Application development\part1 vi\prince\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing System.pdb
+E:\0Intern\0TECHNOBYTESITE\Ticketing System\Ticketing System\obj\Debug\Ticketing System.csproj.AssemblyReference.cache
+E:\0Intern\0TECHNOBYTESITE\Ticketing System\Ticketing System\obj\Debug\Ticketing System.csproj.SuggestedBindingRedirects.cache
+E:\0Intern\0TECHNOBYTESITE\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.AddPrice.resources
+E:\0Intern\0TECHNOBYTESITE\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Chart.resources
+E:\0Intern\0TECHNOBYTESITE\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Exit_Visitor.resources
+E:\0Intern\0TECHNOBYTESITE\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Form1.resources
+E:\0Intern\0TECHNOBYTESITE\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Form2.resources
+E:\0Intern\0TECHNOBYTESITE\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Properties.Resources.resources
+E:\0Intern\0TECHNOBYTESITE\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.AddVisitors.resources
+E:\0Intern\0TECHNOBYTESITE\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Report.resources
+E:\0Intern\0TECHNOBYTESITE\Ticketing System\Ticketing System\obj\Debug\Ticketing System.csproj.GenerateResource.cache
+E:\0Intern\0TECHNOBYTESITE\Ticketing System\Ticketing System\obj\Debug\Ticketing System.csproj.CoreCompileInputs.cache
+E:\0Intern\0TECHNOBYTESITE\Ticketing System\Ticketing System\obj\Debug\Ticketing System.exe
+E:\0Intern\0TECHNOBYTESITE\Ticketing System\Ticketing System\obj\Debug\Ticketing System.pdb
+D:\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing System.csproj.AssemblyReference.cache
+D:\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.AddPrice.resources
+D:\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Chart.resources
+D:\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Exit_Visitor.resources
+D:\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Form1.resources
+D:\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Form2.resources
+D:\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Properties.Resources.resources
+D:\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.AddVisitors.resources
+D:\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Report.resources
+D:\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing System.csproj.GenerateResource.cache
+D:\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing System.csproj.CoreCompileInputs.cache
+D:\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing System.exe
+D:\Ticketing System\Ticketing System\Ticketing System\obj\Debug\Ticketing System.pdb
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\obj\Debug\Ticketing System.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.AddPrice.resources
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Chart.resources
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Exit_Visitor.resources
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Form1.resources
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Form2.resources
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Properties.Resources.resources
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.AddVisitors.resources
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Report.resources
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\obj\Debug\Ticketing System.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\obj\Debug\Ticketing System.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\obj\Debug\Ticketing System.exe
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\obj\Debug\Ticketing System.pdb
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\Ticketing System.exe.config
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\Ticketing System.exe
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\Ticketing System.pdb
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Framework.dll
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Utilities.Core.dll
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\Microsoft.NET.StringTools.dll
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\System.Buffers.dll
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\System.Collections.Immutable.dll
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\System.Configuration.ConfigurationManager.dll
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\System.Memory.dll
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\System.Numerics.Vectors.dll
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\System.Security.AccessControl.dll
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\System.Security.Permissions.dll
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\System.Security.Principal.Windows.dll
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Framework.pdb
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Framework.xml
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Utilities.Core.xml
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\Microsoft.NET.StringTools.pdb
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\System.Buffers.xml
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\System.Collections.Immutable.xml
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\System.Configuration.ConfigurationManager.xml
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\System.Memory.xml
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\System.Numerics.Vectors.xml
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\System.Security.AccessControl.xml
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\System.Security.Permissions.xml
+\\Mac\Home\Downloads\Ticketing System\Ticketing System\bin\Debug\System.Security.Principal.Windows.xml
+C:\Ticketing System\Ticketing System\bin\Debug\Ticketing System.exe.config
+C:\Ticketing System\Ticketing System\bin\Debug\Ticketing System.exe
+C:\Ticketing System\Ticketing System\bin\Debug\Ticketing System.pdb
+C:\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Framework.dll
+C:\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Ticketing System\Ticketing System\bin\Debug\Microsoft.NET.StringTools.dll
+C:\Ticketing System\Ticketing System\bin\Debug\Newtonsoft.Json.dll
+C:\Ticketing System\Ticketing System\bin\Debug\System.Buffers.dll
+C:\Ticketing System\Ticketing System\bin\Debug\System.Collections.Immutable.dll
+C:\Ticketing System\Ticketing System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Ticketing System\Ticketing System\bin\Debug\System.Memory.dll
+C:\Ticketing System\Ticketing System\bin\Debug\System.Numerics.Vectors.dll
+C:\Ticketing System\Ticketing System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Ticketing System\Ticketing System\bin\Debug\System.Security.AccessControl.dll
+C:\Ticketing System\Ticketing System\bin\Debug\System.Security.Permissions.dll
+C:\Ticketing System\Ticketing System\bin\Debug\System.Security.Principal.Windows.dll
+C:\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Framework.pdb
+C:\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Framework.xml
+C:\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+C:\Ticketing System\Ticketing System\bin\Debug\Microsoft.Build.Utilities.Core.xml
+C:\Ticketing System\Ticketing System\bin\Debug\Microsoft.NET.StringTools.pdb
+C:\Ticketing System\Ticketing System\bin\Debug\Newtonsoft.Json.xml
+C:\Ticketing System\Ticketing System\bin\Debug\System.Buffers.xml
+C:\Ticketing System\Ticketing System\bin\Debug\System.Collections.Immutable.xml
+C:\Ticketing System\Ticketing System\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Ticketing System\Ticketing System\bin\Debug\System.Memory.xml
+C:\Ticketing System\Ticketing System\bin\Debug\System.Numerics.Vectors.xml
+C:\Ticketing System\Ticketing System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Ticketing System\Ticketing System\bin\Debug\System.Security.AccessControl.xml
+C:\Ticketing System\Ticketing System\bin\Debug\System.Security.Permissions.xml
+C:\Ticketing System\Ticketing System\bin\Debug\System.Security.Principal.Windows.xml
+C:\Ticketing System\Ticketing System\obj\Debug\Ticketing System.csproj.AssemblyReference.cache
+C:\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.AddPrice.resources
+C:\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Chart.resources
+C:\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Exit_Visitor.resources
+C:\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Form2.resources
+C:\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Properties.Resources.resources
+C:\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.AddVisitors.resources
+C:\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Report.resources
+C:\Ticketing System\Ticketing System\obj\Debug\Ticketing System.csproj.GenerateResource.cache
+C:\Ticketing System\Ticketing System\obj\Debug\Ticketing System.csproj.CoreCompileInputs.cache
+C:\Ticketing System\Ticketing System\obj\Debug\Ticketing System.exe
+C:\Ticketing System\Ticketing System\obj\Debug\Ticketing System.pdb
+C:\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Staff_Login.resources
+C:\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.Admin_Panel.resources
+C:\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.RegisterStaff.resources
+C:\Ticketing System\Ticketing System\obj\Debug\Ticketing_System.staffPanel.resources

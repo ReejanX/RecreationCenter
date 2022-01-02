@@ -1,0 +1,4 @@
+VisitorsID,Name,Phone,AgeGroup,GroupCount,Date,In_Time,Out_Time,Price
+1,Reejan Shrestha,980000000,Adult,2,1/2/2022 12:00:00 AM,1/2/2022 7:50:16 PM,1/2/2022 10:15:05 PM,20
+2,Joey Tribb,986373222,Adult,1,1/2/2022 12:00:00 AM,1/2/2022 9:07:53 PM,1/2/2022 10:14:03 PM,10
+3,Chandler Bing,893272355,Child,1,1/2/2022 12:00:00 AM,1/2/2022 7:09:41 PM,1/2/2022 10:14:40 PM,11
