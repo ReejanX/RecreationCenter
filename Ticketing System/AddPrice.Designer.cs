@@ -36,15 +36,12 @@ namespace Ticketing_System
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
             this.txtGroupCount = new System.Windows.Forms.ComboBox();
             this.txtDuration = new System.Windows.Forms.ComboBox();
             this.txtchildWeekend = new System.Windows.Forms.TextBox();
             this.txtchildWeek = new System.Windows.Forms.TextBox();
             this.txtAdultWeekend = new System.Windows.Forms.TextBox();
             this.txtAdultweek = new System.Windows.Forms.TextBox();
-            this.txtAgedweekend = new System.Windows.Forms.TextBox();
-            this.txtAgedweek = new System.Windows.Forms.TextBox();
             this.btnPriceSave = new System.Windows.Forms.Button();
             this.pricedata = new System.Windows.Forms.DataGridView();
             this.Edit = new System.Windows.Forms.DataGridViewButtonColumn();
@@ -134,17 +131,6 @@ namespace Ticketing_System
             this.label7.TabIndex = 6;
             this.label7.Text = "Adult";
             // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.label8.Location = new System.Drawing.Point(468, 314);
-            this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(77, 31);
-            this.label8.TabIndex = 7;
-            this.label8.Text = "Aged";
-            // 
             // txtGroupCount
             // 
             this.txtGroupCount.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
@@ -152,6 +138,8 @@ namespace Ticketing_System
             this.txtGroupCount.Items.AddRange(new object[] {
             "1",
             "2",
+            "3",
+            "4",
             "5",
             "10",
             "15"});
@@ -209,22 +197,6 @@ namespace Ticketing_System
             this.txtAdultweek.Size = new System.Drawing.Size(148, 31);
             this.txtAdultweek.TabIndex = 13;
             // 
-            // txtAgedweekend
-            // 
-            this.txtAgedweekend.Location = new System.Drawing.Point(581, 318);
-            this.txtAgedweekend.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.txtAgedweekend.Name = "txtAgedweekend";
-            this.txtAgedweekend.Size = new System.Drawing.Size(148, 31);
-            this.txtAgedweekend.TabIndex = 14;
-            // 
-            // txtAgedweek
-            // 
-            this.txtAgedweek.Location = new System.Drawing.Point(804, 321);
-            this.txtAgedweek.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.txtAgedweek.Name = "txtAgedweek";
-            this.txtAgedweek.Size = new System.Drawing.Size(148, 31);
-            this.txtAgedweek.TabIndex = 15;
-            // 
             // btnPriceSave
             // 
             this.btnPriceSave.BackColor = System.Drawing.SystemColors.MenuHighlight;
@@ -246,7 +218,7 @@ namespace Ticketing_System
             this.pricedata.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.Edit,
             this.Delete});
-            this.pricedata.Location = new System.Drawing.Point(41, 515);
+            this.pricedata.Location = new System.Drawing.Point(39, 449);
             this.pricedata.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pricedata.Name = "pricedata";
             this.pricedata.RowHeadersWidth = 51;
@@ -278,7 +250,7 @@ namespace Ticketing_System
             this.btnUpdate.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.btnUpdate.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnUpdate.Font = new System.Drawing.Font("Microsoft YaHei UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnUpdate.Location = new System.Drawing.Point(83, 447);
+            this.btnUpdate.Location = new System.Drawing.Point(603, 365);
             this.btnUpdate.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.Size = new System.Drawing.Size(148, 58);
@@ -312,7 +284,7 @@ namespace Ticketing_System
             this.btnCancel.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.btnCancel.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnCancel.Font = new System.Drawing.Font("Microsoft YaHei UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCancel.Location = new System.Drawing.Point(283, 447);
+            this.btnCancel.Location = new System.Drawing.Point(803, 365);
             this.btnCancel.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(148, 58);
@@ -339,7 +311,7 @@ namespace Ticketing_System
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.MediumPurple;
+            this.BackColor = System.Drawing.Color.AliceBlue;
             this.Controls.Add(this.btnCancel);
             this.Controls.Add(this.btnClear);
             this.Controls.Add(this.txtPriceID);
@@ -347,15 +319,12 @@ namespace Ticketing_System
             this.Controls.Add(this.btnUpdate);
             this.Controls.Add(this.pricedata);
             this.Controls.Add(this.btnPriceSave);
-            this.Controls.Add(this.txtAgedweek);
-            this.Controls.Add(this.txtAgedweekend);
             this.Controls.Add(this.txtAdultweek);
             this.Controls.Add(this.txtAdultWeekend);
             this.Controls.Add(this.txtchildWeek);
             this.Controls.Add(this.txtchildWeekend);
             this.Controls.Add(this.txtDuration);
             this.Controls.Add(this.txtGroupCount);
-            this.Controls.Add(this.label8);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
@@ -365,7 +334,7 @@ namespace Ticketing_System
             this.Controls.Add(this.label1);
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "AddPrice";
-            this.Size = new System.Drawing.Size(1444, 1098);
+            this.Size = new System.Drawing.Size(1444, 1052);
             ((System.ComponentModel.ISupportInitialize)(this.pricedata)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -381,15 +350,12 @@ namespace Ticketing_System
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Label label8;
         private System.Windows.Forms.ComboBox txtGroupCount;
         private System.Windows.Forms.ComboBox txtDuration;
         private System.Windows.Forms.TextBox txtchildWeekend;
         private System.Windows.Forms.TextBox txtchildWeek;
         private System.Windows.Forms.TextBox txtAdultWeekend;
         private System.Windows.Forms.TextBox txtAdultweek;
-        private System.Windows.Forms.TextBox txtAgedweekend;
-        private System.Windows.Forms.TextBox txtAgedweek;
         private System.Windows.Forms.Button btnPriceSave;
         private System.Windows.Forms.DataGridView pricedata;
         private System.Windows.Forms.Button btnUpdate;

@@ -31,33 +31,31 @@ namespace Ticketing_System
                           .Where(a => a.Date == date && a.AgeGroup == "Child" && a.GroupCount == 1).Count());
             dt.Rows.Add("Adult Group 1" , Lstdata
                           .Where(a => a.Date == date && a.AgeGroup == "Adult" && a.GroupCount == 1).Count());
-            dt.Rows.Add("Aged Group 1",Lstdata
-                          .Where(a => a.Date == date && a.AgeGroup == "Aged" && a.GroupCount == 1).Count());
             dt.Rows.Add("Child Group 2" , Lstdata
                           .Where(a => a.Date == date && a.AgeGroup == "Child" && a.GroupCount == 2).Count());
             dt.Rows.Add("Adult Group 2" , Lstdata
                           .Where(a => a.Date == date &&  a.AgeGroup == "Adult" && a.GroupCount == 2).Count());
-            dt.Rows.Add("Aged Group 2", Lstdata
-                          .Where(a => a.Date == date &&  a.AgeGroup == "Aged" && a.GroupCount == 2).Count());
+            dt.Rows.Add("Child Group 3" , Lstdata
+                          .Where(a => a.Date == date && a.AgeGroup == "Child" && a.GroupCount == 3).Count());
+            dt.Rows.Add("Adult Group 3" , Lstdata
+                          .Where(a => a.Date == date &&  a.AgeGroup == "Adult" && a.GroupCount == 3).Count());
+            dt.Rows.Add("Child Group 4" , Lstdata
+                          .Where(a => a.Date == date && a.AgeGroup == "Child" && a.GroupCount == 4).Count());
+            dt.Rows.Add("Adult Group 4" , Lstdata
+                          .Where(a => a.Date == date &&  a.AgeGroup == "Adult" && a.GroupCount == 4).Count());
             dt.Rows.Add("Child Group 5", Lstdata
                           .Where(a => a.Date == date && a.AgeGroup == "Child" && a.GroupCount == 5).Count());
             dt.Rows.Add("Adult Group 5", Lstdata
                           .Where(a => a.Date == date && a.AgeGroup == "Adult" && a.GroupCount == 5).Count());
-            dt.Rows.Add("Aged Group 5", Lstdata
-                          .Where(a => a.Date == date && a.AgeGroup == "Aged" && a.GroupCount == 5).Count());
             dt.Rows.Add("Child Group 10", Lstdata
-                          .Where(a => a.AgeGroup == "Child" && a.GroupCount == 10).Count());
+                          .Where(a => a.Date == date && a.AgeGroup == "Child" && a.GroupCount == 10).Count());
             dt.Rows.Add("Adult Group 10" , Lstdata
                           .Where(a => a.Date == date && a.AgeGroup == "Adult" && a.GroupCount == 10).Count());
-            dt.Rows.Add("Aged Group 10" , Lstdata
-                          .Where(a => a.AgeGroup == "Aged" && a.GroupCount == 10).Count());
-            dt.Rows.Add("Child Group 15", Lstdata
+               dt.Rows.Add("Child Group 15", Lstdata
                           .Where(a => a.Date == date && a.AgeGroup == "Child" && a.GroupCount == 15).Count());
             dt.Rows.Add("Adult Group 15", Lstdata
                           .Where(a => a.Date == date && a.AgeGroup == "Adult" && a.GroupCount == 15).Count());
-            dt.Rows.Add("Aged Group 15", Lstdata
-                          .Where(a => a.Date == date && a.AgeGroup == "Aged" && a.GroupCount == 15).Count());
-            ageddata.Refresh();
+                        ageddata.Refresh();
             ageddata.DataSource = dt;
         }
         private void VisitorsSort_data(DateTime date)
@@ -65,7 +63,7 @@ namespace Ticketing_System
             int indate = ((int)date.DayOfWeek);
             DateTime fDate = date.AddDays(-indate);
             DateTime LDate = date.AddDays((7 - indate));
-            string data = Utility.ReadFromFile(VISITOR);
+            string data = Utility.ReadFromFile();
             List<VisitorsData> Lstdata = JsonConvert.DeserializeObject<List<VisitorsData>>(data);
             DataTable dt = new DataTable();
             dt.Columns.Add("Day");
@@ -122,7 +120,7 @@ namespace Ticketing_System
             int indate = ((int)date.DayOfWeek);
             DateTime fDate = date.AddDays(-indate);
             DateTime LDate = date.AddDays((7 - indate));
-            string data = Utility.ReadFromFile(VISITOR);
+            string data = Utility.ReadFromFile();
             List<VisitorsData> Lstdata = JsonConvert.DeserializeObject<List<VisitorsData>>(data);
             DataTable dt = new DataTable();
             dt.Columns.Add("Day");

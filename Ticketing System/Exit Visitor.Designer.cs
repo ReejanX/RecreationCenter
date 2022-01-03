@@ -109,7 +109,7 @@ namespace Ticketing_System
             this.VisitorsExitDataGrid.Name = "VisitorsExitDataGrid";
             this.VisitorsExitDataGrid.RowHeadersWidth = 51;
             this.VisitorsExitDataGrid.RowTemplate.Height = 24;
-            this.VisitorsExitDataGrid.Size = new System.Drawing.Size(1948, 546);
+            this.VisitorsExitDataGrid.Size = new System.Drawing.Size(1694, 546);
             this.VisitorsExitDataGrid.TabIndex = 26;
             // 
             // txtVisitorsID
@@ -184,7 +184,7 @@ namespace Ticketing_System
             this.btnExport.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.btnExport.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnExport.Font = new System.Drawing.Font("Microsoft YaHei UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnExport.Location = new System.Drawing.Point(1686, 198);
+            this.btnExport.Location = new System.Drawing.Point(1430, 198);
             this.btnExport.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnExport.Name = "btnExport";
             this.btnExport.Size = new System.Drawing.Size(257, 62);
@@ -198,7 +198,7 @@ namespace Ticketing_System
             this.btnImport.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.btnImport.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnImport.Font = new System.Drawing.Font("Microsoft YaHei UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnImport.Location = new System.Drawing.Point(1686, 270);
+            this.btnImport.Location = new System.Drawing.Point(1430, 270);
             this.btnImport.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnImport.Name = "btnImport";
             this.btnImport.Size = new System.Drawing.Size(257, 62);
@@ -215,7 +215,7 @@ namespace Ticketing_System
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.MediumPurple;
+            this.BackColor = System.Drawing.Color.AliceBlue;
             this.Controls.Add(this.btnImport);
             this.Controls.Add(this.btnExport);
             this.Controls.Add(this.button1);
@@ -232,7 +232,7 @@ namespace Ticketing_System
             this.Controls.Add(this.label1);
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Exit_Visitor";
-            this.Size = new System.Drawing.Size(1956, 900);
+            this.Size = new System.Drawing.Size(1694, 900);
             ((System.ComponentModel.ISupportInitialize)(this.VisitorsExitDataGrid)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

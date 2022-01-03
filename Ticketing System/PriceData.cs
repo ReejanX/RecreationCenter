@@ -18,8 +18,7 @@ namespace Ticketing_System
         public int WeekDaysChildPrice { get; set; }
         public int WeekendAdultPrice { get; set; }
         public int WeekDaysAdultPrice { get; set; }
-        public int WeekendAgedPrice { get; set; }
-        public int WeekDaysAgedPrice { get; set; }
+  
 
         public List<PriceData> List()
         {

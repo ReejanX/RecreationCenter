@@ -36,6 +36,7 @@ namespace Ticketing_System
             this.btnRegister = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.panelMenu.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -50,7 +51,7 @@ namespace Ticketing_System
             // 
             // panelMenu
             // 
-            this.panelMenu.BackColor = System.Drawing.Color.MediumPurple;
+            this.panelMenu.BackColor = System.Drawing.SystemColors.Control;
             this.panelMenu.Controls.Add(this.btnPrice);
             this.panelMenu.Controls.Add(this.btnReport);
             this.panelMenu.Controls.Add(this.btnRegister);
@@ -63,7 +64,7 @@ namespace Ticketing_System
             // 
             // btnPrice
             // 
-            this.btnPrice.BackColor = System.Drawing.Color.Violet;
+            this.btnPrice.BackColor = System.Drawing.Color.LightSkyBlue;
             this.btnPrice.Font = new System.Drawing.Font("Microsoft YaHei UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnPrice.Location = new System.Drawing.Point(44, 245);
             this.btnPrice.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
@@ -76,7 +77,7 @@ namespace Ticketing_System
             // 
             // btnReport
             // 
-            this.btnReport.BackColor = System.Drawing.Color.Violet;
+            this.btnReport.BackColor = System.Drawing.Color.LightSkyBlue;
             this.btnReport.Font = new System.Drawing.Font("Microsoft YaHei UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnReport.Location = new System.Drawing.Point(44, 506);
             this.btnReport.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
@@ -85,10 +86,11 @@ namespace Ticketing_System
             this.btnReport.TabIndex = 3;
             this.btnReport.Text = "Report";
             this.btnReport.UseVisualStyleBackColor = false;
+            this.btnReport.Click += new System.EventHandler(this.btnReport_Click);
             // 
             // btnRegister
             // 
-            this.btnRegister.BackColor = System.Drawing.Color.Violet;
+            this.btnRegister.BackColor = System.Drawing.Color.LightSkyBlue;
             this.btnRegister.Font = new System.Drawing.Font("Microsoft YaHei UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnRegister.Location = new System.Drawing.Point(44, 123);
             this.btnRegister.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
@@ -121,6 +123,10 @@ namespace Ticketing_System
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
+            // openFileDialog1
+            // 
+            this.openFileDialog1.FileName = "openFileDialog1";
+            // 
             // Admin_Panel
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
@@ -147,5 +153,6 @@ namespace Ticketing_System
         private System.Windows.Forms.Button btnRegister;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.OpenFileDialog openFileDialog1;
     }
 }

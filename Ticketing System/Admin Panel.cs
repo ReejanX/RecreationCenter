@@ -48,5 +48,12 @@ namespace Ticketing_System
             loginPage.Show();
             this.Close();
         }
+
+        private void btnReport_Click(object sender, EventArgs e)
+        {
+            panelDisplay.Controls.Clear();
+            Report report = new Report();
+            panelDisplay.Controls.Add(report);
+        }
     }
 }

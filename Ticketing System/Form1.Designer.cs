@@ -42,7 +42,7 @@ namespace Ticketing_System
             // 
             // panelMenu
             // 
-            this.panelMenu.BackColor = System.Drawing.Color.MediumPurple;
+            this.panelMenu.BackColor = System.Drawing.SystemColors.Control;
             this.panelMenu.Controls.Add(this.btnExit);
             this.panelMenu.Controls.Add(this.btnReport);
             this.panelMenu.Controls.Add(this.btnVisit);
@@ -55,7 +55,7 @@ namespace Ticketing_System
             // 
             // btnExit
             // 
-            this.btnExit.BackColor = System.Drawing.Color.Violet;
+            this.btnExit.BackColor = System.Drawing.Color.LightSkyBlue;
             this.btnExit.Font = new System.Drawing.Font("Microsoft YaHei UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnExit.Location = new System.Drawing.Point(44, 245);
             this.btnExit.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
@@ -68,7 +68,7 @@ namespace Ticketing_System
             // 
             // btnReport
             // 
-            this.btnReport.BackColor = System.Drawing.Color.Violet;
+            this.btnReport.BackColor = System.Drawing.Color.LightSkyBlue;
             this.btnReport.Font = new System.Drawing.Font("Microsoft YaHei UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnReport.Location = new System.Drawing.Point(44, 506);
             this.btnReport.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
@@ -81,7 +81,7 @@ namespace Ticketing_System
             // 
             // btnVisit
             // 
-            this.btnVisit.BackColor = System.Drawing.Color.Violet;
+            this.btnVisit.BackColor = System.Drawing.Color.LightSkyBlue;
             this.btnVisit.Font = new System.Drawing.Font("Microsoft YaHei UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnVisit.Location = new System.Drawing.Point(44, 123);
             this.btnVisit.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
@@ -108,7 +108,7 @@ namespace Ticketing_System
             this.panelDisplay.Location = new System.Drawing.Point(376, 80);
             this.panelDisplay.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panelDisplay.Name = "panelDisplay";
-            this.panelDisplay.Size = new System.Drawing.Size(1862, 1034);
+            this.panelDisplay.Size = new System.Drawing.Size(2149, 1406);
             this.panelDisplay.TabIndex = 1;
             this.panelDisplay.Paint += new System.Windows.Forms.PaintEventHandler(this.panelDisplay_Paint);
             // 
@@ -127,8 +127,8 @@ namespace Ticketing_System
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ButtonShadow;
-            this.ClientSize = new System.Drawing.Size(2296, 1157);
+            this.BackColor = System.Drawing.SystemColors.Control;
+            this.ClientSize = new System.Drawing.Size(2554, 1521);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.panelDisplay);
             this.Controls.Add(this.panelMenu);

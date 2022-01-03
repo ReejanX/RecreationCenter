@@ -71,11 +71,11 @@ namespace Ticketing_System
                                   Date = t.Date,
                                   In_Time = t.InTime,
                               };
-                var datass = columns.ToList();
-                string age = datass[0].AgeGroup;
-                int count = datass[0].GroupCount;
-                DateTime todayDate = datass[0].Date;
-                DateTime arrival = datass[0].In_Time;
+                var datas = columns.ToList();
+                string age = datas[0].AgeGroup;
+                int count = datas[0].GroupCount;
+                DateTime todayDate = datas[0].Date;
+                DateTime arrival = datas[0].In_Time;
                 int durat = (int)Math.Round(double.Parse((outtime.Subtract(arrival).TotalHours).ToString()));
                 txtDuration.Text = (durat).ToString();
                 if (durat < 1)
@@ -131,8 +131,7 @@ namespace Ticketing_System
                                 Childweekdays = t.WeekDaysChildPrice,
                                 Adultweekdays = t.WeekDaysAdultPrice,
                                 Adultweekend = t.WeekendAdultPrice,
-                                Agedweekdays = t.WeekDaysAgedPrice,
-                                Agedweekend = t.WeekendAgedPrice,
+
                             };
             var actualprice = pricedata.ToList();
 
@@ -158,17 +157,7 @@ namespace Ticketing_System
                     price = actualprice[0].Adultweekdays;
                 }
             }
-            else
-            {
-                if (indate == 1 || indate == 7)
-                {
-                    price = actualprice[0].Agedweekend;
-                }
-                else
-                {
-                    price = actualprice[0].Agedweekdays;
-                }
-            }
+            
 
             int finalprice = price * count;
             return finalprice;

@@ -172,8 +172,7 @@ namespace Ticketing_System
             this.comboAge.FormattingEnabled = true;
             this.comboAge.Items.AddRange(new object[] {
             "Child",
-            "Adult",
-            "Aged"});
+            "Adult"});
             this.comboAge.Location = new System.Drawing.Point(786, 123);
             this.comboAge.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.comboAge.Name = "comboAge";
@@ -187,10 +186,11 @@ namespace Ticketing_System
             this.comboCount.Items.AddRange(new object[] {
             "1",
             "2",
+            "3",
+            "4",
             "5",
             "10",
-            "15",
-            "20"});
+            "15"});
             this.comboCount.Location = new System.Drawing.Point(786, 173);
             this.comboCount.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.comboCount.Name = "comboCount";
@@ -255,7 +255,7 @@ namespace Ticketing_System
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.MediumPurple;
+            this.BackColor = System.Drawing.Color.AliceBlue;
             this.Controls.Add(this.VisitorsDataGrid);
             this.Controls.Add(this.btnVisitorSave);
             this.Controls.Add(this.txtInTime);

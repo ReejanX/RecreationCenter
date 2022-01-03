@@ -76,16 +76,7 @@ namespace Ticketing_System
                 MessageBox.Show("Please fill the Box", "Empty Adult Weekend Price",
                        MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-            else if (txtAgedweek.Text == "")
-            {
-                MessageBox.Show("Please fill the Box", "Empty Aged Weekdays Price",
-                       MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-            else if (txtAgedweekend.Text == "")
-            {
-                MessageBox.Show("Please fill the Box", "Empty Aged Weekend Price",
-                       MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
+           
             else
             {
                 priceData.PriceID = int.Parse(txtPriceID.Text);
@@ -95,8 +86,7 @@ namespace Ticketing_System
                 priceData.WeekendChildPrice = int.Parse(txtchildWeekend.Text);
                 priceData.WeekDaysAdultPrice = int.Parse(txtAdultweek.Text);
                 priceData.WeekendAdultPrice = int.Parse(txtAdultWeekend.Text);
-                priceData.WeekDaysAgedPrice = int.Parse(txtAgedweek.Text);
-                priceData.WeekendAgedPrice= int.Parse(txtAgedweekend.Text);
+                
                 priceData.Edit(priceData);
               
                 MessageBox.Show("Data Edit", "Price Edited",
@@ -134,16 +124,7 @@ namespace Ticketing_System
                 MessageBox.Show("Please fill the Box", "Empty Adult Weekend Price",
                        MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-            else if (txtAgedweek.Text == "")
-            {
-                MessageBox.Show("Please fill the Box", "Empty Aged Weekdays Price",
-                       MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-            else if (txtAgedweekend.Text == "")
-            {
-                MessageBox.Show("Please fill the Box", "Empty Aged Weekend Price",
-                       MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
+            
             else
             {
 
@@ -161,8 +142,7 @@ namespace Ticketing_System
                 int childweekend = int.Parse(txtchildWeekend.Text);
                 int adultweek = int.Parse(txtAdultweek.Text);
                 int adultweekend = int.Parse(txtAdultWeekend.Text);
-                int agedweek = int.Parse(txtAgedweek.Text);
-                int agedweekend = int.Parse(txtAgedweekend.Text);
+               
                 PriceData prices = new PriceData();
                 prices.PriceID = priceId;
                 prices.GroupCount = group;
@@ -171,8 +151,7 @@ namespace Ticketing_System
                 prices.WeekendChildPrice = childweekend;
                 prices.WeekDaysAdultPrice = adultweek;
                 prices.WeekendAdultPrice = adultweekend;
-                prices.WeekDaysAgedPrice = agedweek;
-                prices.WeekendAgedPrice = agedweekend;
+                
 
                 prices.Add(prices);
                 
@@ -214,8 +193,7 @@ namespace Ticketing_System
             txtchildWeekend.Text = string.Empty;
             txtAdultweek.Text = string.Empty;
             txtAdultWeekend.Text = string.Empty;
-            txtAgedweek.Text = string.Empty;
-            txtAgedweekend.Text = string.Empty;
+            
 
         }
         private void BindGrid()
@@ -242,8 +220,7 @@ namespace Ticketing_System
                               ChildWeekendPrice = t.WeekendChildPrice,
                               AdultWeekPrice = t.WeekDaysAdultPrice,
                               AdultWeekendPrice = t.WeekendAdultPrice,
-                              AgedWeekPrice = t.WeekDaysAgedPrice,
-                              AgedWeekendPrice = t.WeekendAgedPrice,
+
 
                           };
             pricedata.DataSource = columns.ToList();
@@ -273,8 +250,7 @@ namespace Ticketing_System
                     txtAdultWeekend.Text = priceData.WeekendAdultPrice.ToString();
                     txtchildWeek.Text = priceData.WeekDaysChildPrice.ToString();
                     txtchildWeekend.Text = priceData.WeekendChildPrice.ToString();
-                    txtAgedweekend.Text = priceData.WeekendAgedPrice.ToString();
-                    txtAgedweek.Text = priceData.WeekDaysAgedPrice.ToString();
+                    
                     btnPriceSave.Visible = false;
                     btnUpdate.Visible = true;
                     btnCancel.Visible = true;
